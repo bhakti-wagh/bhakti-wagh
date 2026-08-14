@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Bhakti Wagh
-**A passionate Data Analysis || Agentic AI ||Full Stack Java Developer|| BCA Student from Pune, Maharashtra **
+**A passionate Data Analysis || Agentic AI ||Full Stack Python Developer|| Testing Eng. ||  BCA Student from Pune, Maharashtra **
 
 Email Me 👉 ✉️ **bhaktisushilkadam@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Autonomous API Debugging Agent
-- 🌱 **I’m currently learning:** AI | GenAI |Python
+- 🔭 **I’m currently doing:** Attending Qspider
+- 🌱 **I’m currently learning:**Python | Agile Model | PowerBI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** bhaktisushilkadam@gmail.com
 - 😄 **Pronouns:** Bhakti
